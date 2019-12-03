@@ -1,6 +1,6 @@
 /********************************************************************************
 *
-*   Copyright (C) 2018 Culham Centre for Fusion Energy,
+*   Copyright (C) 2018, 2019 Culham Centre for Fusion Energy,
 *   United Kingdom Atomic Energy Authority, Oxfordshire OX14 3DB, UK
 *
 *   Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,8 +19,8 @@
 *
 *   Program: DISANIME
 *            Dislocation segment strain field in anisotropic medium
-*   Version: 1.0
-*   Date:    14 May 2019
+*   Version: 1.1
+*   Date:    3 Dec 2019
 *   Author:  Pui-Wai (Leo) MA
 *   Contact: leo.ma@ukaea.uk
 *   Address: Culham Centre for Fusion Energy, OX14 3DB, United Kingdom
